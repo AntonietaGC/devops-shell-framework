@@ -8,3 +8,4 @@ Shell Scripting, Git, CI/CD, Terraform, Ansible, Docker y Kubernetes.
 .app/app.sh
 ```
 
+Practica ejecutada en una VM Linux.
