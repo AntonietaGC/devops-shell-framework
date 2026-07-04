@@ -22,6 +22,7 @@ cat > app/index.html <<HTML
 </body>
 </html>
 HTML
+echo "devops shell"
 echo "[OK] Archivo app/index.html generado"
 
 
